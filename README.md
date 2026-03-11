@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**juslli/juslli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá 👋 Eu sou o Junio
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação  
+📚 Estudando HTML, CSS e JavaScript  
+🚀 Construindo projetos para evoluir como programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+🔢 Calculadora Web  
+📋 Lista de tarefas  
+🌐 Portfólio pessoal
+
+## 📫 Contato
+
+Email: njunio212@gmail.com  
+GitHub: https://github.com/juslli
+
+
