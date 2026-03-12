@@ -1,20 +1,24 @@
-## Hi there 👋
+# Olá 👋 eu sou Junio Dias Gianelli
 
-# Olá 👋 Eu sou o Junio
+💻 Desenvolvedor Web em formação
 
-💻 Desenvolvedor em formação  
-📚 Estudando HTML, CSS e JavaScript  
-🚀 Construindo projetos para evoluir como programador
+Estou aprendendo e construindo projetos com:
 
-## 🚀 Projetos
+- HTML
+- CSS
+- JavaScript
 
-🔢 Calculadora Web  
-📋 Lista de tarefas  
-🌐 Portfólio pessoal
+🚀 Meu objetivo é trabalhar como desenvolvedor e criar soluções reais com programação.
+
+## 🌎 Portfólio
+https://juslli.github.io/webSite/
+
+## 📂 Meus projetos
+
+🔹 Calculadora em JavaScript  
+🔹 GitHub User Finder  
+🔹 Portfólio Web  
 
 ## 📫 Contato
 
-Email: njunio212@gmail.com  
-GitHub: https://github.com/juslli
-
-
+LinkedIn: (https://www.linkedin.com/in/junio-dias-gianelli-60b80524a/)
