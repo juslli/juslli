@@ -1,115 +1,52 @@
-<div align="center">
+# 👋 Olá, eu sou o Junio
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1f1f1f&text=JN%20DEV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+**Desenvolvedor Front-End** focado em criar interfaces modernas, responsivas e que geram resultado real para marcas e negócios.
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Modern+UI+Designer;Creating+premium+web+experiences"/>
-
-<br><br>
-
-<a href="https://portfolio-ten-steel-88.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/juslli">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/junio-dias-gianelli-60b80524a/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+🔗 [Portfólio](https://portfolio-ten-steel-88.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/junio-dias-gianelli-60b80524a/) • [WhatsApp](https://wa.me/556195626311)
 
 ---
 
-# ⚡ About Me
+## 🚀 Sobre mim
 
-```js
-const junio = {
+Transformo ideias em projetos profissionais, com foco em performance, experiência do usuário e conversão. Trabalho com HTML, CSS e JavaScript modernos, sempre buscando evoluir para ecossistemas como React.
 
-  role: "Front-End Developer",
-
-  focus: [
-    "Modern Interfaces",
-    "Premium UI",
-    "Responsive Websites",
-    "Creative Experiences"
-  ],
-
-  mindset:
-    "Code. Design. Evolution."
-}
-```
+- 🎯 Foco atual: landing pages e sites institucionais modernos
+- 🧠 Estudando: React e fundamentos de UI/UX avançado
+- 💼 Disponível para freelas e projetos web
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,figma&theme=dark"/>
-
-</div>
-
----
-
-# 🧠 Current Focus
-
-- Building modern landing pages
-- UI/UX evolution
-- Advanced animations
-- React ecosystem
-- Real-world freelance projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-# 📊 Analytics
+## 📌 Projetos em destaque
 
-<div align="center">
+### [🌐 JN DEV Portfolio](https://portfolio-ten-steel-88.vercel.app/)
+Portfólio pessoal com design dark premium, seções de projetos, skills e contato direto via WhatsApp.
+`HTML` `CSS` `JavaScript`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juslli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+### [🔍 GitHub User Finder Pro](https://github.com/juslli/GitHub-User-Finder-pro)
+Aplicação que busca perfis do GitHub em tempo real consumindo a API pública do GitHub.
+`HTML` `CSS` `JavaScript`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juslli&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+### [💱 Currency Converter](https://github.com/juslli/currency-converter)
+Conversor de moedas com cotações em tempo real via API de câmbio.
+`HTML` `CSS` `JavaScript`
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=juslli&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# 🌐 Featured Project
-
-<div align="center">
-
-<a href="https://portfolio-ten-steel-88.vercel.app/">
-
-<img width="100%" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1400&auto=format&fit=crop"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### JN DEV PORTFOLIO
-
-Modern dark portfolio focused on:
-premium visuals, smooth UX and responsive experiences.
-
-</div>
+> Veja todos os projetos no [meu GitHub](https://github.com/juslli?tab=repositories)
 
 ---
 
-<div align="center">
+## 📫 Vamos conversar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:1f1f1f"/>
+Disponível para freelas, landing pages e sites modernos.
 
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556195626311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junio-dias-gianelli-60b80524a/)  
