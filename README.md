@@ -11,7 +11,7 @@ Crio interfaces modernas e responsivas e estou evoluindo pro back-end com Java e
 
 ## 🚀 Sobre mim
 
-Transformo ideias em projetos profissionais, com foco em performance, experiência do usuário e código limpo. Codo do zero com HTML, CSS e JavaScript, e no back-end trabalho com Java e Spring Boot.
+Transformo ideias em projetos profissionais, com foco em performance, experiência do usuário e código limpo. Codo do zero com HTML, CSS e JavaScript, e no back-end construo APIs REST com Java e Spring Boot.
 
 - 🎯 **Foco atual:** landing pages e sites institucionais + evolução como dev back-end
 - 🧠 **Estudando:** Java, Spring Boot, React e fundamentos de UI/UX
@@ -42,6 +42,14 @@ Transformo ideias em projetos profissionais, com foco em performance, experiênc
 ---
 
 ## 📌 Projetos em destaque
+
+### [📊 Comparador de Cotações](https://github.com/juslli/comparador-cotacoes)
+Comparador de cotações de fornecedores: API em Java/Spring Boot com front-end em JavaScript.
+`Java` `Spring Boot` `JavaScript` `REST`
+
+### [✅ API de Tarefas](https://github.com/juslli/api-tarefas)
+API REST de gerenciamento de tarefas com Java e Spring Boot.
+`Java` `Spring Boot` `REST`
 
 ### [🌐 JN DEV Portfolio](https://portfolio-ten-steel-88.vercel.app/)
 Portfólio pessoal com design dark premium, seções de projetos, skills e contato direto via WhatsApp.
